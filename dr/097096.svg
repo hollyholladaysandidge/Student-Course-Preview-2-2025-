@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" data-name="S_RotateRight_18_N@2x" height="36" id="S_RotateRight_18_N_2x" viewBox="0 0 36 36" width="36">
+  <defs>
+    <style>
+      .fill {
+        fill: #6e6e6e;
+      }
+
+      
+    </style>
+  </defs>
+  <path class="fill" d="M25,10H3a1,1,0,0,0-1,1V33a1,1,0,0,0,1,1H25a1,1,0,0,0,1-1V11A1,1,0,0,0,25,10Z" />
+  <path class="fill" d="M35.5,15h-2V12a9,9,0,0,0-9-9h-2a1,1,0,0,0-1,1V5a1,1,0,0,0,1,1h2a6,6,0,0,1,6,6v3h-2a.5.5,0,0,0-.5.5.49.49,0,0,0,.147.35l3.537,4.033a.5.5,0,0,0,.632,0l3.537-4.033A.49.49,0,0,0,36,15.5.5.5,0,0,0,35.5,15Z" />
+  </svg>
